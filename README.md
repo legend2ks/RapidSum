@@ -1,4 +1,4 @@
-# <img src="https://github.com/nice2ks/RapidSum/blob/master/images/rapidsum.png" alt="Rapidsum Icon" /> RapidSum
+# RapidSum
 
 ## A checksum calculator and verifier tool
 
