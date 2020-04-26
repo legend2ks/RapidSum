@@ -1,5 +1,7 @@
-# RapidSum ⚡️
+# RapidSum
+
 <img src="https://github.com/nice2ks/RapidSum/blob/master/images/rapidsum.png" alt="Rapidsum Icon" />
+
 ## A checksum calculator and verifier tool
 
 <h2 align="center">
