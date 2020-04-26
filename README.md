@@ -7,10 +7,10 @@
 
 ## Features
 
-⚡️ Supports MD5, SHA1, CRC32 algorithms
+⚡️ Supports MD5, SHA1, CRC32 algorithms\
 ⚡️ Fast & lightweight
 
-## Technologies used 🛠️
+## Technologies used
 
 - C++ Programming Language
 - Qt Framework
