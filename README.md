@@ -9,7 +9,8 @@
 ## Features
 
 ⚡️ Supports MD5, SHA1, CRC32 algorithms\
-⚡️ Fast & lightweight
+⚡️ Fast & lightweight\
+⚡️ Easy to use
 
 ## Technologies used
 
@@ -18,4 +19,4 @@
 
 ## Authors
 
-- **Hossein Saniee** [https://github.com/nice2ks](https://github.com/nice2ks)
+- **Hossein Saniei** [https://github.com/nice2ks](https://github.com/nice2ks)
