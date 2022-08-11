@@ -19,4 +19,4 @@
 
 ## Authors
 
-- **Hossein Saniei** [https://github.com/nice2ks](https://github.com/nice2ks)
+- **Hossein Saniei** [https://github.com/legend2ks](https://github.com/legend2ks)
