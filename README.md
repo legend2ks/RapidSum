@@ -1,5 +1,8 @@
 # RapidSum
 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/legend2ks/RapidSum)](https://github.com/legend2ks/RapidSum/releases)
+[![GitHub all releases](https://img.shields.io/github/downloads/legend2ks/RapidSum/total?color=green)](https://github.com/legend2ks/RapidSum/releases)
+
 ## A checksum calculator and verifier tool
 
 <h2 align="center">
